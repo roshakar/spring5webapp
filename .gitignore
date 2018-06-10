@@ -23,8 +23,3 @@
 /dist/
 /nbdist/
 /.nb-gradle/
-
-### Mvn stuff ###
-.mvn/
-mvnw
-mvnw.cmd
